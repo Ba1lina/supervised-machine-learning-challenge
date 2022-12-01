@@ -1,6 +1,6 @@
 # Supervised Machine Learning Challenge
 
-This Project aims to comparethe Logistic Regression and Random Forest Classifier models in classifying the risk level of give loans.
+This Project aims to compare the Logistic Regression and Random Forest Classifier models in classifying the risk level of give loans.
 
 # Project Structure
 
